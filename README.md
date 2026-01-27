@@ -42,10 +42,3 @@ Arquitectura de reportes dinámicos para el monitoreo financiero.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GermaAguilar&show_icons=true&theme=dark" alt="Stats" />
 </p>
-
----
-
-## 📫 Conectemos
-¿Buscas optimizar procesos financieros con tecnología o colaborar en proyectos de automatización?
-
-[![LinkedIn](
