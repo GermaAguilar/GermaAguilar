@@ -21,20 +21,20 @@ Mi valor diferencial es la visión híbrida:
 
 ### 📊 Business Intelligence & ERP
 * **SAP Financial Ecosystem:** Especialista en extracción y manejo de datos financieros.
-* **Reporting:** Experto en **Crystal Reports** y **Power BI** para la toma de decisiones gerenciales en Beco.
+* **Reporting:** Conocimiento en **Crystal Reports**
 
 ---
 
-## 📂 Proyectos de Impacto en Intelix/Beco
+## 📂 Proyectos de Impacto 
 
 ### ⚡ Automatización de Análisis Contables
 Desarrollo de una aplicación web (Python/SQL/JS) que transformó procesos manuales críticos en flujos automatizados.
-* **Impacto:** Eliminación de cuellos de botella en cierres contables y auditorías.
+* **Impacto:** Eliminación de cuellos de botella en cierres contables.
 * **Tecnologías:** Integración de lógica contable avanzada con interfaces modernas y bases de datos robustas.
 
 ### 📈 Ecosistema de Reportes Corporativos
-Arquitectura de reportes dinámicos para el monitoreo de KPIs financieros.
-* **Alcance:** Implementación de soluciones de BI que conectan directamente con el sistema financiero de la empresa.
+Arquitectura de reportes dinámicos para el monitoreo financiero.
+* **Alcance:** Implementación de soluciones que conectan directamente con el sistema financiero de la empresa.
 
 ---
 
