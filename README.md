@@ -25,11 +25,3 @@ Mi valor diferencial es la visión híbrida:
 Desarrollo de una aplicación web (Python/SQL/JS) que transformó procesos manuales críticos en flujos automatizados.
 * **Impacto:** Eliminación de cuellos de botella en cierres contables.
 * **Tecnologías:** Integración de lógica contable avanzada con interfaces modernas y bases de datos robustas.
-
-
----
-
-## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GermaAguilar&show_icons=true&theme=dark" alt="Stats" />
-</p>
