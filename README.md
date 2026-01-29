@@ -4,7 +4,7 @@
 ## 🚀 Mi Trayectoria: De la Contabilidad al Código
 Mi valor diferencial es la visión híbrida:
 * **Fase 1 (Contabilidad):** Entendí los flujos transaccionales, auditorías y necesidades fiscales desde la práctica.
-* **Fase 2 (Desarrollo):** Traduje ese conocimiento en herramientas de automatización, integración con **SAP** y aplicaciones web de alto impacto.
+* **Fase 2 (Desarrollo):** Traduje ese conocimiento en herramientas de automatización y aplicaciones web.
 
 ---
 
@@ -19,12 +19,6 @@ Mi valor diferencial es la visión híbrida:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 📊 Business Intelligence & ERP
-* **SAP Financial Ecosystem:** Especialista en extracción y manejo de datos financieros.
-* **Reporting:** Conocimiento en **Crystal Reports**
-
----
-
 ## 📂 Proyectos de Impacto 
 
 ### ⚡ Automatización de Análisis Contables
@@ -32,9 +26,6 @@ Desarrollo de una aplicación web (Python/SQL/JS) que transformó procesos manua
 * **Impacto:** Eliminación de cuellos de botella en cierres contables.
 * **Tecnologías:** Integración de lógica contable avanzada con interfaces modernas y bases de datos robustas.
 
-### 📈 Ecosistema de Reportes Corporativos
-Arquitectura de reportes dinámicos para el monitoreo financiero.
-* **Alcance:** Implementación de soluciones que conectan directamente con el sistema financiero de la empresa.
 
 ---
 
