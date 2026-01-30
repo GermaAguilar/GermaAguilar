@@ -1,4 +1,4 @@
-# <img width="1024" height="1024" alt="Gemini_Generated_Image_537y8j537y8j537y-Photoroom" src="https://github.com/user-attachments/assets/148ca064-a309-40c4-9b04-67a61a93b239" /> Germain Aguilar
+# <img src="Gemini_Generated_Image_537y8j537y8j537y-Photoroom" src="https://github.com/user-attachments/assets/148ca064-a309-40c4-9b04-67a61a93b239" /> Germain Aguilar
 ### Senior Domain Expert | FinTech Developer & Automation Specialist
 
 ## Mi Trayectoria: De la Contabilidad al Código
