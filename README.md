@@ -21,9 +21,9 @@ Mi valor diferencial es la visión híbrida:
 
 ## Proyectos
 
-### Alcuadre 
+### Alcuadre >
 
-<<img width="1699" height="913" alt="image" src="https://github.com/user-attachments/assets/b765e74e-e46e-4e32-926d-95c8dd90b5ac" />
+<img width="1699" height="913" alt="image" src="https://github.com/user-attachments/assets/b765e74e-e46e-4e32-926d-95c8dd90b5ac" />
 
 
 
