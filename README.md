@@ -23,9 +23,7 @@ Mi valor diferencial es la visión híbrida:
 
 ## Alcuadre 
 
-Sistema de automático de conciliaciones bancarias 
-
 <img width="512" height="275" alt="image" src="https://github.com/user-attachments/assets/ad36c316-f0cc-4d7f-987b-875d4804cbf1" />
-<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/d3c15885-1981-47e3-8b28-103ebcec3018" />
+
 
 
