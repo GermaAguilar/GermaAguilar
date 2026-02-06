@@ -3,7 +3,7 @@
 
 ## Mi Trayectoria: De la Contabilidad al Código
 Mi valor diferencial es la visión híbrida:
-* **Fase 1 (Contabilidad):** Entendí los flujos transaccionales, auditorías y necesidades fiscales desde la práctica.
+* **Fase 1 (Contabilidad):** Experiencia directa en la gestión de operaciones contables, auditoría y cumplimiento fiscales.
 * **Fase 2 (Desarrollo):** Traduje ese conocimiento en herramientas de automatización y aplicaciones web.
 
 ---
@@ -21,7 +21,11 @@ Mi valor diferencial es la visión híbrida:
 
 ## Proyectos
 
-### Automatización de Análisis Contables
-Desarrollo de una aplicación web (Python/SQL/JS) que transformó procesos manuales críticos en flujos automatizados.
-* **Impacto:** Eliminación de cuellos de botella en cierres contables.
-* **Tecnologías:** Integración de lógica contable avanzada con interfaces modernas y bases de datos robustas.
+## Alcuadre 
+
+Sistema de automático de conciliaciones bancarias 
+
+<img width="512" height="275" alt="image" src="https://github.com/user-attachments/assets/ad36c316-f0cc-4d7f-987b-875d4804cbf1" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/d3c15885-1981-47e3-8b28-103ebcec3018" />
+
+
